@@ -1,5 +1,5 @@
 APLIKASI UJIAN ONLINE MENGGUNAKAN CODEIGNITER 3
-Terdiri dari 2 user yaitu guru sebagai admin dan siswa, berikut tampilan menu login untuk admin
+Terdiri dari 2 user yaitu guru sebagai admin dan siswa sebagai peserta ujian, berikut tampilan menu login untuk admin
 ![image](https://github.com/shilnaprdisa/AplikasiUjian/assets/113671337/455d94da-2aac-4c4c-9a63-ffdcf129996d)
 setelah memasukan username password maka akan menuju halaman awal
 ![image](https://github.com/shilnaprdisa/AplikasiUjian/assets/113671337/5b524af5-4e8e-4e69-9016-9f64fccbaae7)
